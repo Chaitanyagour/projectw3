@@ -29,7 +29,7 @@ It is fully responsive using viewport-based units (`vh`, `vw`) and demonstrates 
 
 ## 🚀 Live Demo
 
-👉 [View Live on GitHub Pages](https://chaitanyagour.github.io/projectw3)  
+👉 [View Live on GitHub Pages](https://github.com/Chaitanyagour/projectw3/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
