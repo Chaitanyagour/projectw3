@@ -1,0 +1,33 @@
+/* Reset default browser styles */
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Main container taking full screen */
+.divv {
+    height: 100vh;    /* Full screen height */
+    width: 100vw;     /* Full screen width */
+}
+
+/* Image styling */
+.imag {
+    height: 60vh;         /* 60% of viewport height */
+    width: 50vw;          /* 50% of viewport width */
+    margin-top: 10%;      /* space from top */
+    margin-left: 25%;     /* center horizontally (since 50vw + 25% = 100%) */
+}
+
+/* Button styling */
+.buto {
+    width: 50vw;                /* Button same width as image */
+    padding: 20px;              /* inner spacing */
+    border-radius: 50px;        /* rounded corners */
+    background-color: rgb(141, 64, 176); /* purple background */
+    color: white;               /* white text */
+    font-weight: 600;           /* bold text */
+    margin-left: 25%;           /* center horizontally */
+    margin-top: 0px;            /* no space on top */
+    margin-bottom: 10%;         /* space at bottom */
+}
